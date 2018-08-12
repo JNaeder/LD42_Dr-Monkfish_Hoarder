@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{edd55818-3ba8-4704-b72d-8789cb863a4b}">
+        <property name="assetPath">
+            <value>ItemDropSounds/ItemDrop_02.ogg</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.68496598639455786</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a5e89bca-c4c1-4bec-97cd-b2d7534558d3}</destination>
+        </relationship>
+    </object>
+</objects>

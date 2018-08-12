@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{ba4938d5-d5b7-4ff2-a921-8099befe466a}">
+        <property name="assetPath">
+            <value>MusicLoop1.ogg</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>205</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a5e89bca-c4c1-4bec-97cd-b2d7534558d3}</destination>
+        </relationship>
+    </object>
+</objects>
